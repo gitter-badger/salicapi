@@ -1,5 +1,7 @@
 # SALIC api
 
+[![Join the chat at https://gitter.im/Lafaiet/salicapi](https://badges.gitter.im/Lafaiet/salicapi.svg)](https://gitter.im/Lafaiet/salicapi?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 API aberta para o portal NOVO SALIC. Tem por objetivo expor os dados de projetos da lei Rouanet.
 
 
